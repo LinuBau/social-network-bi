@@ -1,0 +1,10 @@
+delete from FACT_BENUTZER
+delete from FACT_BENUTZER_AGG
+delete from FACT_BENUTZER_AGG_BART
+delete from FACT_BENUTZER_AGG_BART_BENUTZER
+delete from FACT_BENUTZER_AGG_BENUTZER
+
+delete from DIM_BENUTZER
+delete from DIM_KONTOART
+delete from DIM_BEITRAGART
+delete from DIM_ZEIT
